@@ -1,0 +1,1 @@
+20231124	01:53:46	2b01de61-de49-4ffd-a4fd-e7a432cca60a	TypeError : contentType.inclues is not a function 
